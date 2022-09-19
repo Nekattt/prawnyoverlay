@@ -1,0 +1,10 @@
+{
+  NOMMENCLATURE_SCORES : "Toujours mettre 0 sur les scores au début des parties, ne pas laisser vide",
+  NOMMENCLATURE_BO : "Toujours mettre en minuscule le   bo  , mettre bo1 et rafraichir l'overlay pour ne pas afficher les barres blanches.",
+  "match": {
+    "name": "Grande Finale",
+    "orange_bo_score": "3",
+    "blue_bo_score": "4",
+    "bo": "bo5"
+  }
+}
